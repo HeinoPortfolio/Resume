@@ -4,7 +4,7 @@
 
 ### 📫 Let's Connect
 *   **Professional Inquiry:** [Send an Email](mailto:meheino@://gmail.com)
-*   **Networking:**
+*   **Networking:** [LinkedIn Profile](https://www.linkedin.com/in/matthew-heino-25a9006)
 *   **Portfolio:** [GitHub Portfolio](https://heinoportfolio.github.io/)
 
 ---
