@@ -115,7 +115,7 @@ Since I maintain over 20+ repositories, here is a guide to my most significant w
 > **Key Focus:** Java GUI/Android Development, Agile Methodologies, and SDLC Management.
 
 **City University of New York (CUNY) - School Of Professional Studies**  
-*Bachelor of Science in Information Systems* | **Honors: Summa Cum Laude**  
+*Bachelor of Science in Information Systems* | **GPA: 3.976**  | **Honors: Summa Cum Laude**  
 *2020*  
 > **Key Focus:** Python Development, Systems Networking, and Database Administration.
 
