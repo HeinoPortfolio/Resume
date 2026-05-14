@@ -10,7 +10,7 @@
 ---
 
 > [!IMPORTANT]
-> **MS in Computer Science candidate (4.0 GPA)** and **summa cum laude CUNY SPS graduate** focused on software engineering, machine learning, and full-Stack development.
+> **MS in Computer Science candidate (4.0 GPA)** and **summa cum laude CUNY SPS B. Sci in Information Systems graduate** focused on software engineering, machine learning, and full-Stack development.
 
 
 ### Technical Summary
