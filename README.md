@@ -14,8 +14,7 @@
 
 
 ### Technical Summary
-> High-performing Software Engineer and MSCS Candidate (4.0 GPA) with a multifaceted academic foundation spanning computer science, data analytics, and IT management. Expertly bridges the gap between low-level software engineering (C++, C#, Java) and high-level organizational leadership. Specialized in the full data lifecycle, from ETL processing and exploratory analysis (EDA) to predictive machine learning and full-stack deployment.
-
+> High-Performing Software Engineer & MSCS Candidate (4.0 GPA) seeking an Associate or Graduate-level position. Academic and project background bridges the gap between low-level systems engineering and high-level organizational leadership. Specialized across the full data lifecycle, from custom ETL pipelines to predictive machine learning models, with a proven ability to lead student engineering teams and deliver business-aligned software solutions.
 ---
 
 ### 💻 Technical Skills
@@ -52,24 +51,38 @@ Since I maintain over 20+ repositories, here is a guide to my most significant w
 ### 📂 Featured Projects
 
 #### 🤖 [Android Student Term Manager](https://github.com/HeinoPortfolio/AndroidProject)
->    Developed a comprehensive Android application for managing student academic terms, courses, and assessments. <br><br>
->    **Tech Stack:** Java, Android Studio, Gradle, SQLite with Room Persistence Library, and XML layouts. <br><br>
+>    Developed a comprehensive Android application for managing student academic terms, courses, and assessments. The native Android application used Java and SQLite for secure local database management and automated academic tracking. <br><br>
+>    **Tech Stack:** Java, Android Studio, Gradle, SQLite with Room Persistence Library, and XML layouts. <br>
 >    **Documentation:** View the [User Guide](https://github.com/HeinoPortfolio/AndroidProject/blob/main/User%20Guide.pdf) for a deep dive into the application's architecture and functionality. <br><br>
 >    *Note: Certain document title pages have been removed to maintain the academic integrity of the original course.* 
 
 #### 🍱 [Recipe Management System (MERN Stack)](https://github.com/HeinoPortfolio/Milestone-3/tree/main)
->    Designed a multi-tiered MERN architecture and built a React frontend. <br><br>
->    Engineered a Node.js/Express backend and automated testing via GitHub Actions. 
+>    Designed a multi-tiered MERN architecture and built a React frontend.  Engineered a multi-tiered web application to manage dynamic user data.
+>    Automated the integration pipeline via GitHub Actions to automatically trigger code linting and unit tests on every pull request.<br><br>
+>    **Tech Stack:**  React, Node.js, Express, and MongoDB. <br><br>
 
 #### 📈 [Data Mining & Pattern Discovery Projects](https://github.com/HeinoPortfolio/MS_Comp_Sci/tree/main/6%20Data%20Mining%20and%20Machine%20Learning )
->    Implemented clustering and classification algorithms using scikit-learn; developed anomaly detection scripts. <br><br>
->    Used association rule mining to identify trends and significant relationships within large datasets. 
+>    Implemented clustering and classification algorithms using scikit-learn; developed anomaly detection scripts. <
+>    Deployed scikit-learn clustering and classification models in Python alongside custom anomaly detection scripts to uncover hidden patterns within complex datasets. Utilized association rule mining within Python
+>    workflows to identify significant relational trends and data dependencies. Executed exploratory data analysis (EDA) and feature engineering to transform raw, complex datasets into structured formats for predictive >    modeling. Used association rule mining to identify trends and significant relationships within large datasets. <br><br>
+>    **Tech Stack:** Python, scikit-learn
 
 #### 💵 [Savings Tracker (SE Capstone)](https://github.com/HeinoPortfolio/CS690-FinalProject)
->    Managed end-to-end SDLC; translated requirements into domain models, activity, and architecture diagrams.<br><br>
->    Built a C# CLI using Spectre Console to provide actionable financial insights and goal tracking.
+>   Independently developed a full-scale financial application from concept to deployment, serving as the sole architect and engineer for the codebase. Built a high-performance C# CLI using Spectre Console to provide real-time financial insights and automated goal tracking.
+>    Managed end-to-end SDLC; translated requirements into domain models, activity, and architecture diagrams.
+>    Built a C# CLI using Spectre Console to provide actionable financial insights and goal tracking. <br><br>
+>    **Tech Stack:** C#,  CLI using Spectre Console
 
-> **Explore 20+ additional repositories** spanning ML, AI, and Full-Stack development at: [GitHub](https://github.com/HeinoPortfolio)
+#### Healthcare Interoperability Strategy (Case Study)
+>   Conceived a secure healthcare interoperability framework, leading a cross-functional student team to define data transmission protocols across disparate hospital departments.
+>   Mapped technical architecture requirements directly to administrative HIPAA compliance mandates to ensure data security.
+
+####  E-commerce Business Strategy (Case Study)
+>   Led a collaborative team in developing a comprehensive financial roadmap and operational strategy for a high-volume digital storefront.
+>   Coordinated market analysis and resource allocation strategies to ensure the proposal met commercial scalability guidelines.
+
+### Additional Repositories
+> **Explore 30+ additional repositories** spanning ML, AI, and Full-Stack development at: [GitHub](https://github.com/HeinoPortfolio)
 
 ---
 
