@@ -129,16 +129,16 @@ Since I maintain over 20+ repositories, here is a guide to my most significant w
 
 <br>
 
+---
+
+## 🎓 ACADEMIC HISTORY
+
 ### 🏆 Academic Excellence
 > * **4.0 / 4.0 GPA** – MS in Computer Science (In Progress)
 > * **Summa Cum Laude** – BS in Information Systems (Highest Honors)
 > * **Multi-Disciplined Master’s** – Specialized in Data Analytics & IT Management
 
 <br>
-
----
-
-## 🎓 ACADEMIC HISTORY
 
 **Master of Science in Computer Science**  
  *Ball State University* | **GPA: 4.0** | **Expected Graduation: Dec 2026 (Available Full-Time)**
