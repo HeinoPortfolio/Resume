@@ -145,20 +145,20 @@ Since I maintain over 20+ repositories, here is a guide to my most significant w
 > *   **Core Frameworks:** Specialization in Machine Learning integration and advanced Software Engineering paradigms. Hands-on application utilizing Python, R, C#, and MongoDB to build robust backend software services. Coursework completed dynamically online to ensure full availability during business hours.
 
 **Master of Science in Data Analytics**  
-*Western Governors University* | **Graduated: 2024**
+*Western Governors University* | **Graduated**
 > *   **Core Frameworks:** Advanced coursework in statistical modeling, predictive analytics, and enterprise data management. Intensive practical application utilizing Python, MySQL, PostgreSQL, and Tableau to engineer data pipelines and business intelligence dashboards.
 
 **Master of Science in IT Management**  
-*Western Governors University* | **Graduated: 2023**
+*Western Governors University* | **Graduated**
 > *   **Core Layout:** Intensive training in strategic leadership, IT project management, and IT financial management aligned directly with enterprise PMI/CAPM standards. Developed professional soft skills to effectively bridge the gap between technical execution teams and senior business stakeholders.
 
 **Bachelor of Science in Software Development**  
-*Western Governors University* | **Graduated: 2021**
+*Western Governors University* | **Graduated**
 > *   **Core Frameworks:** Focused on native Java GUI desktop engineering, Android mobile application development, and comprehensive object-oriented architectures. Practical training centered heavily on execution frameworks across Agile and Waterfall Software Development Life Cycles (SDLC).
 > *   **Credentials:** CIW User Interface Design Certified (interaction-focused UI/UX principles); trained in Agile/Scrum vs. Waterfall strategy implementation.
 
 **Bachelor of Science in Information Systems**  
-*CUNY – School of Professional Studies* | **Graduated: 2020**
+*CUNY – School of Professional Studies* | **Graduated**
 > *   **Honors:** Summa Cum Laude (GPA: 3.976) | Dean’s List all eligible semesters.
 > *   **Core Layout:** Focused heavily on systems analysis, database design, and technical coursework. Leveraged Python and foundational SQL workflows to perform data modeling and system evaluations.
 
