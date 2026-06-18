@@ -14,7 +14,7 @@
 
 
 ## 🎯 PROFESSIONAL SUMMARY
-> High-Performing Software Engineer, Data Architect, and MSCS Candidate (4.0 GPA) specializing in the end-to-end delivery of scalable, data-driven web applications, deterministic backend systems, and automated enterprise pipelines. Backed by advanced post-graduate  > degrees in Data Analytics and IT Management, demonstrating a rare technical capability to bridge hardware-adjacent constraints with secure, multi-tiered software architectures. Expert at gathering functional software requirements, tuning relational database >frameworks, and translating complex technical parameters into actionable corporate systems. **Academic schedule is structured entirely online and asynchronously, leaving my schedule completely open for immediate, full-time corporate employment during standard business hours.**
+> High-Performing Software Engineer, Data Architect, and MSCS Candidate (4.0 GPA) specializing in the end-to-end delivery of scalable, data-driven web applications, deterministic backend systems, and automated enterprise pipelines. Backed by advanced post-graduate  degrees in Data Analytics and IT Management, demonstrating a rare technical capability to bridge hardware-adjacent constraints with secure, multi-tiered software architectures. Expert at gathering functional software requirements, tuning relational database frameworks, and translating complex technical parameters into actionable corporate systems. **Academic schedule is structured entirely online and asynchronously, leaving my schedule completely open for immediate, full-time corporate employment during standard business hours.**
 
 ---
 
