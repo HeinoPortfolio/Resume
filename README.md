@@ -18,7 +18,7 @@
 
 ---
 
-## 📊 TECHNICAL SKILLS MATRIX
+## 📊 TECHNICAL SKILLS
 
 ### 💻 Languages & Scripting
 > *   **Systems & Application:** C/C++, C# / .NET, Java, Python, R, JavaScript (ES6+)
