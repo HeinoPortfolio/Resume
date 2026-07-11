@@ -64,7 +64,7 @@ Since I maintain over 20+ repositories, here is a guide to my most significant w
 ---
 
 
-## 📁 MODULAR TECHNICAL PROJECTS REPOSITORY
+## 📁 TECHNICAL PROJECTS
 
 ### 🐍 Data Engineer & Analyst | Predictive Inference Pipeline & ML Pipeline
 🔗 [View Repository](https://github.com/HeinoPortfolio/Data-Analytics-Grad-Work)
